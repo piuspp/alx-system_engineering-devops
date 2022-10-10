@@ -1,0 +1,15 @@
+total 40
+drwxr-xr-x 2 root root 209 Oct 10 15:05 .
+drwxr-xr-x 6 root root 121 Oct 10 07:42 ..
+-rwxr--r-- 1 root root  32 Oct 10 09:28 0-hello_world
+-rwxr--r-- 1 root root  28 Oct 10 10:20 1-confused_smiley
+-rwxr--r-- 1 root root  28 Oct 10 13:52 2-hellofile
+-rwxr--r-- 1 root root  39 Oct 10 14:16 3-twofiles
+-rwxr--r-- 1 root root  29 Oct 10 14:41 4-lastlines
+-rwxr--r-- 1 root root  29 Oct 10 14:44 5-firstlines
+-rwxr--r-- 1 root root  40 Oct 10 14:52 6-third_line
+-rw-r--r-- 1 root root  70 Oct 10 15:01 7-file
+-rw-r--r-- 1 root root  15 Oct 10 14:59 7-file~
+-rw-r--r-- 1 root root   0 Oct 10 15:05 my_file
+-rw-r--r-- 1 root root  36 Oct 10 07:57 README.md
+-rw-r--r-- 1 root root  36 Oct 10 07:57 README.md
